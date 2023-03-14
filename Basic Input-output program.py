@@ -1,3 +1,4 @@
+# a program to display marksheet of student
 name=input("Enter name: ")
 r=input("Enter Roll no.: ")
 print("Enter marks out of 100")
