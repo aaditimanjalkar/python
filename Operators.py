@@ -1,3 +1,4 @@
+# a menu-driven program in python to implement Calculator
 while True:
  
   o=int(input("Menu\n1.Arithmetic operator\n2.Relational operator\n3.Bitwise operator\n4.Exit\nEnter a choice: "))
